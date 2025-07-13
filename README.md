@@ -16,15 +16,16 @@ Eval Guru allows students to attempt random previous year question papers (PYQs)
 7. Report shown to the user
 
 # Key Features
-Automatic Evaluation: AI analyzes answers and generates marks and
-feedback instantly.
-Random PYQ Selection: Easily pick random past papers to simulate real
-exams.
-Helps students practice time-bound writing and manage
-exam stress.
-Saves all previous attempts, scores, and feedback for
-progress tracking.
-Supports multiple subjects as per JNTUK R23 syllabus.
-Students can upload images or PDFs of their handwritten
-answers.
+Automatic Evaluation: AI analyzes answers and generates marks and feedback instantly.
+
+Random PYQ Selection: Easily pick random past papers to simulate real exams.
+
+Integrated Timer: Helps students practice time-bound writing and manage exam stress.
+
+Performance History: Saves all previous attempts, scores, and feedback for progress tracking.
+
+Subject Support: Supports multiple subjects as per JNTUK R23 syllabus.
+
+Flexible Upload: Students can upload images or PDFs of their handwritten answers.
+
 Clean, Responsive Design: Works on mobile and desktop devices.
